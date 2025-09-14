@@ -14,7 +14,7 @@ Zenbo intelligent patrolman: license plate recognition based on deep learning me
 
 > 主要在本機端做labeling的動作，於colab建立模型與訓練。
 
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,nvim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,neovim)](https://skillicons.dev)
 
 ***
 
