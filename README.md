@@ -7,10 +7,14 @@ Zenbo intelligent patrolman: license plate recognition based on deep learning me
   - 影像辨識之資料集收集（約兩千多筆照片）
   - 每筆資料的影像標記（labeling)(使用：[HumanSignal-labelImg](https://github.com/HumanSignal/labelImg))
   - yolo模型共同協助訓練與建模
-
+ 
 - 參加比賽與獲獎記錄：
   - 入圍2025∞AI跨域永續創新競賽「決賽」
   - 2025 NCCU Innofest 期末海報聯展獎
+
+> 主要在本機端做labeling的動作，於colab建立模型與訓練。
+
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,nvim)](https://skillicons.dev)
 
 ***
 
@@ -30,6 +34,7 @@ Zenbo intelligent patrolman: license plate recognition based on deep learning me
 4. 整合 Zenbo 機器人平台以完成低成本巡邏應用
 5. 降低人工負擔並強化違規控管效率
 
+![流程圖](pic.png)
 
 ## 實驗設計
 1. 階段一：模擬環境功能驗證
