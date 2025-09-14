@@ -1,7 +1,8 @@
 # Zenbo智能巡邏員：深度學習車牌辨識違停監控
 Zenbo intelligent patrolman: license plate recognition based on deep learning methods in illegal parking monitoring.
 
-- **人工智慧實務專題－機器人與AI應用實作**
+## **人工智慧實務專題－機器人與AI應用實作**  [DEMO影片連結](https://youtu.be/doTxv7EyCCM)
+
 - 我負責的內容為：
   - 影像辨識之資料集收集（約兩千多筆照片）
   - 每筆資料的影像標記（labeling)(使用：[HumanSignal-labelImg](https://github.com/HumanSignal/labelImg))
